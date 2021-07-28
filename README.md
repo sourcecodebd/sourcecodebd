@@ -7,7 +7,8 @@ I am an articulate, confident person who relishes challenges and working under p
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 💬 Ask me about IT or any Tech-related stuff.
-- 📫 How to reach me: nafiaiubian17@gmail.com, http://nafi.epizy.com/E-Pay
+- 📫 How to reach me: 
+### nafiaiubian17@gmail.com, http://nafi.epizy.com/E-Pay
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep watching movies every day after finishing coding
 
