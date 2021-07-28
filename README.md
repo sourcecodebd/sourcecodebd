@@ -7,14 +7,15 @@ I am an articulate, confident person who relishes challenges and working under p
 - 👯 I’m looking to collaborate on LinkedIn.
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 💬 Ask me about IT or any Tech-related stuff.
-- 📫 How to reach me: nafiaiubian17@gmail.com
+- 📫 How to reach me: nafiaiubian17@gmail.com, http://nafi.epizy.com/E-Pay
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I sleep watching movies every day after finishing coding
 
 📫 Reach me out!
   
-[![Twitter Badge](https://img.shields.io/badge/-@Nafi71340800-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nafi71340800)](https://twitter.com/@Nafi71340800) [![Linkedin Badge](https://img.shields.io/badge/-nafimahmud-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafi-mahmud/) [![Mail Badge](https://img.shields.io/badge/-@dauntless_nafi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dauntless_nafi) [![Mail Badge](https://img.shields.io/badge/-nafiaiubian17@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nafiaiubian17@gmail.com) , http://nafi.epizy.com/E-Pay
-### Official website: http://nafi.epizy.com/Blog/Content
+[![Twitter Badge](https://img.shields.io/badge/-@Nafi71340800-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nafi71340800)](https://twitter.com/@Nafi71340800) [![Linkedin Badge](https://img.shields.io/badge/-nafimahmud-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafi-mahmud/) [![Mail Badge](https://img.shields.io/badge/-@dauntless_nafi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dauntless_nafi) [![Mail Badge](https://img.shields.io/badge/-nafiaiubian17@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nafiaiubian17@gmail.com)
+### Official website: http://sourcecodebd.github.io/nafi.com
+### Portfolio: http://nafi.epizy.com/Blog/Content
 
 #### Top Technologies
 
