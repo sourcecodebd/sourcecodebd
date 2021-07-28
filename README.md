@@ -40,7 +40,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 <br>
 <br>
 
-<img align="center" height="324px" Width="500px" src="https://github.com/sourcecodebd/sourcecodebd/master">
+<img align="center" height="324px" Width="500px" src="https://github.com/sourcecodebd/sourcecodebd/master/code.gif">
 
 <br>
 <br>
