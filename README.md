@@ -30,7 +30,6 @@ I am an articulate, confident person who relishes challenges and working under p
 <br>
 <br>
 ![Profile views](https://gpvc.arturio.dev/sourcecodebd)
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://github.com/sourcecodebd)
 [![GitHub followers](https://img.shields.io/github/followers/sourcecodebd.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sourcecodebd?tab=followers)
 <br>
 ![Nafi Mahmud's Github Stats](https://github-readme-stats.vercel.app/api?username=sourcecodebd&theme=outrun&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/sourcecodebd)
