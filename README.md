@@ -33,8 +33,7 @@ I am an articulate, confident person who relishes challenges and working under p
 
 <img src="https://github-readme-stats.vercel.app/api?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/sourcecodebd)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/sourcecodebd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/sourcecodebd)
 
 
 <summary>
