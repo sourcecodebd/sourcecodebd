@@ -1,6 +1,5 @@
 ### Hi I'm Nafi Mahmud
-[![Profile views](https://gpvc.arturio.dev/sourcecodebd)] 
-(https://github.com/sourcecodebd) [![GitHub followers](https://img.shields.io/github/followers/sourcecodebd.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sourcecodebd?tab=followers) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sourcecodebd)
+[![Profile views](https://gpvc.arturio.dev/sourcecodebd)](https://github.com/sourcecodebd) [![GitHub followers](https://img.shields.io/github/followers/sourcecodebd.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sourcecodebd?tab=followers) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sourcecodebd)
 
 I am an articulate, confident person who relishes challenges and working under pressure. My greatest strengths are my research, communication and writing skills' am a highly competent IT professional with a proven track record in designing websites, web-developing and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organization's.
 
