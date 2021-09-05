@@ -10,8 +10,6 @@ I am an articulate, confident person who relishes challenges and working under p
 - Ask me about IT or any Tech-related stuff.
 - How to reach me: 
 ### nafiaiubian17@gmail.com, http://nafi.epizy.com/E-Pay
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I sleep watching movies every day after finishing coding
 
 📫 Reach me out!
   
